@@ -1,0 +1,6 @@
+background 9DDBEB
+highlight orange ED5523
+"C" blue 04B3CD
+
+base template
+https://startbootstrap.com/template-overviews/freelancer/

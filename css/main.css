@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 16, 2016, 3:44:26 PM
+    Author     : Chris Batdorf
+*/
+
+#what {
+    background: #ED5523;
+}
+#why {
+    background: #fff;
+    color:#ED5523;
+}
+#who {
+    background: #9DDBEB;
+}
+#where {
+    background: #fff;
+    color: #04B3CD;
+}
+#howlong {
+    background: #ED5523;
+}
+h1, h2 {
+    font-size:1em !important;
+}
+.success h2 {
+    font-size:3em !important;
+}
+#contact h2 {
+    font-size:3em !important;
+}
